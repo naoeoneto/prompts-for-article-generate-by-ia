@@ -47,17 +47,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Paradigmas de Programação                                                                                                                                                                                                 |
+| conteúdo | Comporte-se como um autor de artigos tech e escreva um artigo atendendo
+as regras abaixo: 
+
+- No máximo 5 linhas por blocos de explicação
+- Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+- Os blocos que serão criados estão abaixo:
+- O que são paradigmas de programação
+- Quais os paradigmas existentes
+	- Cite exemplos com códigos para cada paradigma
+- Faça um call to action para minhas redes sociais
+- Coloque 3 hashtags que façam sentido |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
-
-
+• Pessoa programando
 
 ## ✨ Features
 
@@ -81,15 +89,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAntonio Neto<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/naoeoneto">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+abdpneto">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
